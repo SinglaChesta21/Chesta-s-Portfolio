@@ -1,0 +1,122 @@
+{
+    "version": "0.4",
+    "title": "Logo | Section &#8211; Nikicivi Kit",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-logo-grid",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "fccb08d",
+            "settings": {
+                "background_background": "classic",
+                "_title": "Logo | Section - Nikicivi",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=accent"
+                }
+            },
+            "elements": [
+                {
+                    "id": "7646ab65",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "269fb60e",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 515,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/1-airdnd-logo-client-nikicivi-3.png"
+                                    },
+                                    {
+                                        "id": 517,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/2-babarifa-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 521,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/3-cripsydip-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 523,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/4-dominios-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 524,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/5-eightstate-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 532,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/6-faritalez-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 534,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/7-gericoco-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 536,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/8-hanimun-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 538,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/9-italinar-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 540,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/10-jakarzae-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 543,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/11-karemura-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 544,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/12-lemperza-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 546,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/13-mabaqu-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 547,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/14-nikmatul-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 548,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/15-ojoditiru-logo-client-nikicivi.png"
+                                    }
+                                ],
+                                "thumbnail_size": "custom",
+                                "thumbnail_custom_dimension": {
+                                    "width": "120",
+                                    "height": "36"
+                                },
+                                "slides_to_show": "5",
+                                "navigation": "arrows",
+                                "arrows_position": "outside",
+                                "arrows_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

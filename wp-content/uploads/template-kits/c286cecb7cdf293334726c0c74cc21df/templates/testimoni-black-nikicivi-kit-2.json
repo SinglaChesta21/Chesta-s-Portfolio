@@ -1,0 +1,208 @@
+{
+    "version": "0.4",
+    "title": "Testimoni | Black &#8211; Nikicivi Kit &#8211; 2",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-testimonial",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "3107822e",
+            "settings": {
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "105",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_title": "Testimoni | Black - Nikicivi - 2",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary"
+                }
+            },
+            "elements": [
+                {
+                    "id": "474f7ebc",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "15ddbd72",
+                            "settings": {
+                                "slides": [
+                                    {
+                                        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                        "name": "Amber Kitlon",
+                                        "title": "CEO",
+                                        "image": {
+                                            "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/what-they-said-photo-client-nikicivi-1.jpg",
+                                            "id": 3119
+                                        },
+                                        "_id": "ba6c17a"
+                                    },
+                                    {
+                                        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                        "name": "Jerry Keller",
+                                        "title": "CEO",
+                                        "image": {
+                                            "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/what-they-said-photo-client-nikicivi-2.jpg",
+                                            "id": 3123
+                                        },
+                                        "_id": "f0020eb"
+                                    }
+                                ],
+                                "width": {
+                                    "unit": "%",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "show_arrows": "",
+                                "pagination": "",
+                                "pagination_color": "#3B3A3A",
+                                "width_mobile": {
+                                    "unit": "px",
+                                    "size": 294,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeIn",
+                                "__globals__": {
+                                    "content_color": "globals\/colors?id=text",
+                                    "content_typography_typography": "globals\/typography?id=text",
+                                    "name_color": "globals\/colors?id=accent",
+                                    "name_typography_typography": "globals\/typography?id=primary",
+                                    "title_color": "globals\/colors?id=68b3a46",
+                                    "title_typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "252dc234",
+            "settings": {
+                "background_background": "classic",
+                "_title": "Logo",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=accent"
+                }
+            },
+            "elements": [
+                {
+                    "id": "78f291bc",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1f165639",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 515,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/1-airdnd-logo-client-nikicivi-3.png"
+                                    },
+                                    {
+                                        "id": 517,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/2-babarifa-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 521,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/3-cripsydip-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 523,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/4-dominios-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 524,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/5-eightstate-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 532,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/6-faritalez-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 534,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/7-gericoco-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 536,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/8-hanimun-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 538,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/9-italinar-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 540,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/10-jakarzae-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 543,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/11-karemura-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 544,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/12-lemperza-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 546,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/13-mabaqu-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 547,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/14-nikmatul-logo-client-nikicivi.png"
+                                    },
+                                    {
+                                        "id": 548,
+                                        "url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/15-ojoditiru-logo-client-nikicivi.png"
+                                    }
+                                ],
+                                "thumbnail_size": "custom",
+                                "thumbnail_custom_dimension": {
+                                    "width": "120",
+                                    "height": "36"
+                                },
+                                "slides_to_show": "5",
+                                "navigation": "arrows",
+                                "arrows_position": "outside",
+                                "arrows_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

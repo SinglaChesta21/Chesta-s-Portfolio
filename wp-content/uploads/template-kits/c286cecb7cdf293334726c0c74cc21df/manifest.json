@@ -1,0 +1,2179 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Nikicivi - Elegant CV\/Resume & Portfolio Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header - Nikicivi Kit",
+            "screenshot": "screenshots\/header-nikicivi-kit.png",
+            "source": "templates\/header-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/?elementor_library=header-nikicivi-kit",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer - Nikicivi Kit",
+            "screenshot": "screenshots\/footer-nikicivi-kit.png",
+            "source": "templates\/footer-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/?elementor_library=footer-nikicivi-kit",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 1 - Nikicivi Kit",
+            "screenshot": "screenshots\/home-1-nikicivi-kit.jpg",
+            "source": "templates\/home-1-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/home-1-nikicivi-kit\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 - Nikicivi Kit",
+            "screenshot": "screenshots\/home-2-nikicivi-kit.jpg",
+            "source": "templates\/home-2-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/home-2-nikicivi-kit\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3 - Nikicivi Kit",
+            "screenshot": "screenshots\/home-3-nikicivi-kit.jpg",
+            "source": "templates\/home-3-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/home-3-nikicivi-kit\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Grid - Nikicivi Kit",
+            "screenshot": "screenshots\/portfolio-grid-nikicivi-kit.jpg",
+            "source": "templates\/portfolio-grid-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/portfolio-grid-nikicivi-kit\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio List - Nikicivi Kit",
+            "screenshot": "screenshots\/portfolio-list-nikicivi-kit.jpg",
+            "source": "templates\/portfolio-list-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/portfolio-list-nikicivi-kit\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact - Nikicivi Kit",
+            "screenshot": "screenshots\/contact-nikicivi-kit.jpg",
+            "source": "templates\/contact-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/contact-nikicivi-kit\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About - Nikicivi Kit",
+            "screenshot": "screenshots\/about-nikicivi-kit.jpg",
+            "source": "templates\/about-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/about-nikicivi-kit\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services - Nikicivi Kit",
+            "screenshot": "screenshots\/services-nikicivi-kit.jpg",
+            "source": "templates\/services-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/services-nikicivi-kit\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing - Nikicivi Kit",
+            "screenshot": "screenshots\/pricing-nikicivi-kit.jpg",
+            "source": "templates\/pricing-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/pricing-nikicivi-kit\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog - Nikicivi Kit",
+            "screenshot": "screenshots\/blog-nikicivi-kit.jpg",
+            "source": "templates\/blog-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/blog-nikicivi-kit\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post - Nikicivi Kit",
+            "screenshot": "screenshots\/single-post-nikicivi-kit.jpg",
+            "source": "templates\/single-post-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/single-post-nikicivi-kit\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404 - Nikicivi Kit",
+            "screenshot": "screenshots\/error-404-nikicivi-kit.jpg",
+            "source": "templates\/error-404-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/error-404-nikicivi-kit\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hero | Section - Nikicivi Kit - 1",
+            "screenshot": "screenshots\/hero-section-nikicivi-kit-1.jpg",
+            "source": "templates\/hero-section-nikicivi-kit-1.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/hero-section-nikicivi-kit-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hero | Section - Nikicivi Kit - 2",
+            "screenshot": "screenshots\/hero-section-nikicivi-kit-2.jpg",
+            "source": "templates\/hero-section-nikicivi-kit-2.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/hero-section-nikicivi-kit-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hero | Section - Nikicivi Kit - 3",
+            "screenshot": "screenshots\/hero-section-nikicivi-kit-3.jpg",
+            "source": "templates\/hero-section-nikicivi-kit-3.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/hero-section-nikicivi-kit-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Title Black | Section - Nikicivi Kit",
+            "screenshot": "screenshots\/title-black-section-nikicivi-kit.jpg",
+            "source": "templates\/title-black-section-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/title-black-section-nikicivi-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About | Section - Nikicivi Kit - 1",
+            "screenshot": "screenshots\/about-section-nikicivi-kit-1.jpg",
+            "source": "templates\/about-section-nikicivi-kit-1.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/about-section-nikicivi-kit-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About | Section - Nikicivi Kit - 2",
+            "screenshot": "screenshots\/about-section-nikicivi-kit-2.jpg",
+            "source": "templates\/about-section-nikicivi-kit-2.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/about-section-nikicivi-kit-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About | Section - Nikicivi Kit - 3",
+            "screenshot": "screenshots\/about-section-nikicivi-kit-3.jpg",
+            "source": "templates\/about-section-nikicivi-kit-3.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/about-section-nikicivi-kit-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About | Section - Nikicivi Kit - 4",
+            "screenshot": "screenshots\/about-section-nikicivi-kit-4.jpg",
+            "source": "templates\/about-section-nikicivi-kit-4.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/about-section-nikicivi-kit-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Education | Black - Nikicivi Kit",
+            "screenshot": "screenshots\/education-black-nikicivi-kit.jpg",
+            "source": "templates\/education-black-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/education-black-nikicivi-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Education | White - Nikicivi Kit",
+            "screenshot": "screenshots\/education-white-nikicivi-kit.jpg",
+            "source": "templates\/education-white-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/education-white-nikicivi-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Experience | Section - Nikicivi Kit - 1",
+            "screenshot": "screenshots\/experience-section-nikicivi-kit-1.jpg",
+            "source": "templates\/experience-section-nikicivi-kit-1.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/experience-section-nikicivi-kit-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Experience | Section - Nikicivi Kit - 2",
+            "screenshot": "screenshots\/experience-section-nikicivi-kit-2.jpg",
+            "source": "templates\/experience-section-nikicivi-kit-2.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/experience-section-nikicivi-kit-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Experience | Section - Nikicivi Kit - 3",
+            "screenshot": "screenshots\/experience-section-nikicivi-kit-3.jpg",
+            "source": "templates\/experience-section-nikicivi-kit-3.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/experience-section-nikicivi-kit-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Experience | Section - Nikicivi Kit - 4",
+            "screenshot": "screenshots\/experience-section-nikicivi-kit-4.jpg",
+            "source": "templates\/experience-section-nikicivi-kit-4.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/experience-section-nikicivi-kit-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Experience | Section - Nikicivi Kit - 5",
+            "screenshot": "screenshots\/experience-section-nikicivi-kit-5.jpg",
+            "source": "templates\/experience-section-nikicivi-kit-5.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/experience-section-nikicivi-kit-5\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimoni | Black - Nikicivi Kit - 1",
+            "screenshot": "screenshots\/testimoni-black-nikicivi-kit-1.jpg",
+            "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/testimoni-black-nikicivi-kit-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimoni | Black - Nikicivi Kit - 2",
+            "screenshot": "screenshots\/testimoni-black-nikicivi-kit-2.jpg",
+            "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/testimoni-black-nikicivi-kit-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Logo | Section - Nikicivi Kit",
+            "screenshot": "screenshots\/logo-section-nikicivi-kit.png",
+            "source": "templates\/logo-section-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/logo-section-nikicivi-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-logo-grid",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Black | Section - Nikicivi Kit",
+            "screenshot": "screenshots\/portfolio-black-section-nikicivi-kit.jpg",
+            "source": "templates\/portfolio-black-section-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/portfolio-black-section-nikicivi-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Grid | Section- Nikicivi Kit",
+            "screenshot": "screenshots\/portfolio-grid-section-nikicivi-kit.jpg",
+            "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/portfolio-grid-section-nikicivi-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio List | Section- Nikicivi Kit",
+            "screenshot": "screenshots\/portfolio-list-section-nikicivi-kit.jpg",
+            "source": "templates\/portfolio-list-section-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/portfolio-list-section-nikicivi-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services | Section - Nikicivi Kit",
+            "screenshot": "screenshots\/services-section-nikicivi-kit.jpg",
+            "source": "templates\/services-section-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/services-section-nikicivi-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing | Section - Nikicivi Kit",
+            "screenshot": "screenshots\/pricing-section-nikicivi-kit.jpg",
+            "source": "templates\/pricing-section-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/pricing-section-nikicivi-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact | Section - Nikicivi Kit",
+            "screenshot": "screenshots\/contact-section-nikicivi-kit.jpg",
+            "source": "templates\/contact-section-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/contact-section-nikicivi-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Quotes | Section - Nikicivi Kit",
+            "screenshot": "screenshots\/quotes-section-nikicivi-kit.png",
+            "source": "templates\/quotes-section-nikicivi-kit.json",
+            "preview_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/template-kit\/quotes-section-nikicivi-kit\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.2.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.1.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/logo-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/header-nikicivi-kit.json",
+                    "name": "Header - Nikicivi Kit"
+                }
+            ],
+            "filesize": 6533,
+            "dimensions": [
+                200,
+                267
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "background-n.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/background-n-800x430.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-3-nikicivi-kit.json",
+                    "name": "Home 3 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-list-nikicivi-kit.json",
+                    "name": "Portfolio List - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/contact-nikicivi-kit.json",
+                    "name": "Contact - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/services-nikicivi-kit.json",
+                    "name": "Services - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/blog-nikicivi-kit.json",
+                    "name": "Blog - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/single-post-nikicivi-kit.json",
+                    "name": "Single Post - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/hero-section-nikicivi-kit-1.json",
+                    "name": "Hero | Section - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/hero-section-nikicivi-kit-2.json",
+                    "name": "Hero | Section - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/hero-section-nikicivi-kit-3.json",
+                    "name": "Hero | Section - Nikicivi Kit - 3"
+                },
+                {
+                    "source": "templates\/title-black-section-nikicivi-kit.json",
+                    "name": "Title Black | Section - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                }
+            ],
+            "filesize": 91585,
+            "dimensions": [
+                1600,
+                859
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-section-nikicivi-photo-5.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/hero-section-nikicivi-photo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-3-nikicivi-kit.json",
+                    "name": "Home 3 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/hero-section-nikicivi-kit-1.json",
+                    "name": "Hero | Section - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/hero-section-nikicivi-kit-2.json",
+                    "name": "Hero | Section - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/hero-section-nikicivi-kit-3.json",
+                    "name": "Hero | Section - Nikicivi Kit - 3"
+                }
+            ],
+            "filesize": 435783,
+            "dimensions": [
+                600,
+                609
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-shot-of-beautiful-and-charming-young-redh-DHFGBWK"
+        },
+        {
+            "filename": "education-black-nikicivi-photo.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/education-black-nikicivi-photo.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/education-black-nikicivi-kit.json",
+                    "name": "Education | Black - Nikicivi Kit"
+                }
+            ],
+            "filesize": 119341,
+            "dimensions": [
+                424,
+                799
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/isolated-studio-portrait-of-fashionable-female-mod-JXHZS3V"
+        },
+        {
+            "filename": "frame-orange.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/frame-orange.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/education-black-nikicivi-kit.json",
+                    "name": "Education | Black - Nikicivi Kit"
+                }
+            ],
+            "filesize": 6588,
+            "dimensions": [
+                566,
+                984
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "what-they-said-nikicivi-photo.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/what-they-said-nikicivi-photo.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                }
+            ],
+            "filesize": 75040,
+            "dimensions": [
+                389,
+                610
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-isolated-portrait-of-young-female-with-lo-7SMJXRV"
+        },
+        {
+            "filename": "frame-what-they-said-1.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/frame-what-they-said-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                }
+            ],
+            "filesize": 3307,
+            "dimensions": [
+                205,
+                188
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "yellow-mini-box.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/yellow-mini-box.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                }
+            ],
+            "filesize": 146,
+            "dimensions": [
+                91,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "what-they-said-photo-client-nikicivi-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/what-they-said-photo-client-nikicivi-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                }
+            ],
+            "filesize": 73120,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-DAE7X9H"
+        },
+        {
+            "filename": "what-they-said-photo-client-nikicivi-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/what-they-said-photo-client-nikicivi-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                }
+            ],
+            "filesize": 71354,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mature-businessman-QDJGHRJ"
+        },
+        {
+            "filename": "1-airdnd-logo-client-nikicivi-3.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/1-airdnd-logo-client-nikicivi-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 2443,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2-babarifa-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/2-babarifa-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 2068,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "3-cripsydip-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/3-cripsydip-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 2643,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "4-dominios-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/4-dominios-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 2058,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "5-eightstate-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/5-eightstate-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 2505,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "6-faritalez-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/6-faritalez-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 2247,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "7-gericoco-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/7-gericoco-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 2176,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "8-hanimun-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/8-hanimun-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 2067,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "9-italinar-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/9-italinar-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 1521,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "10-jakarzae-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/10-jakarzae-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 2234,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "11-karemura-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/11-karemura-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 1763,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "12-lemperza-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/12-lemperza-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 1743,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "13-mabaqu-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/13-mabaqu-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 1397,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "14-nikmatul-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/14-nikmatul-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 1541,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "15-ojoditiru-logo-client-nikicivi.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/15-ojoditiru-logo-client-nikicivi.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/pricing-nikicivi-kit.json",
+                    "name": "Pricing - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-1.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 1"
+                },
+                {
+                    "source": "templates\/testimoni-black-nikicivi-kit-2.json",
+                    "name": "Testimoni | Black - Nikicivi Kit - 2"
+                },
+                {
+                    "source": "templates\/logo-section-nikicivi-kit.json",
+                    "name": "Logo | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 1567,
+            "dimensions": [
+                600,
+                182
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/portfolio-blog-nikicivi-new-1-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-black-section-nikicivi-kit.json",
+                    "name": "Portfolio Black | Section - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 73769,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/kunikaa-wedding-invitation-elementor-template-kit-Z8TFQDX"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/portfolio-blog-nikicivi-new-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-black-section-nikicivi-kit.json",
+                    "name": "Portfolio Black | Section - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 67296,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/web-design-banner-landing-page-623SRX"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/portfolio-blog-nikicivi-new-3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-black-section-nikicivi-kit.json",
+                    "name": "Portfolio Black | Section - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 99469,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/consider-best-web-design-for-consultation-template-BN2H6Q"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/portfolio-blog-nikicivi-new-4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-black-section-nikicivi-kit.json",
+                    "name": "Portfolio Black | Section - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 64371,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/web-design-RF39Q27"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/portfolio-blog-nikicivi-new-5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-black-section-nikicivi-kit.json",
+                    "name": "Portfolio Black | Section - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 88290,
+            "dimensions": [
+                1170,
+                780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-web-design-templates-NEM7NK"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/03\/portfolio-blog-nikicivi-new-6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-nikicivi-kit.json",
+                    "name": "Home 1 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-black-section-nikicivi-kit.json",
+                    "name": "Portfolio Black | Section - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 84247,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teamwork-on-the-project-landing-page-gr-85PU7M7"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/portfolio-blog-nikicivi-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/home-3-nikicivi-kit.json",
+                    "name": "Home 3 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-list-nikicivi-kit.json",
+                    "name": "Portfolio List - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/services-nikicivi-kit.json",
+                    "name": "Services - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-list-section-nikicivi-kit.json",
+                    "name": "Portfolio List | Section- Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/services-section-nikicivi-kit.json",
+                    "name": "Services | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 60236,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/kunikaa-wedding-invitation-elementor-template-kit-Z8TFQDX"
+        },
+        {
+            "filename": "services-nikicivi-wm-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/services-nikicivi-wm-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/services-nikicivi-kit.json",
+                    "name": "Services - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/services-section-nikicivi-kit.json",
+                    "name": "Services | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 51269,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/restaurant-web-design-74GHWGW"
+        },
+        {
+            "filename": "services-nikicivi-wm-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/services-nikicivi-wm-3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/services-nikicivi-kit.json",
+                    "name": "Services - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/services-section-nikicivi-kit.json",
+                    "name": "Services | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 34535,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/click-home-dots-TPL27S"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-15.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/portfolio-blog-nikicivi-15-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-nikicivi-kit.json",
+                    "name": "Home 2 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/services-nikicivi-kit.json",
+                    "name": "Services - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/services-section-nikicivi-kit.json",
+                    "name": "Services | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 57957,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/planet-coffee-web-header-template-S3VW8U"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/portfolio-blog-nikicivi-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-nikicivi-kit.json",
+                    "name": "Home 3 - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-list-nikicivi-kit.json",
+                    "name": "Portfolio List - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-list-section-nikicivi-kit.json",
+                    "name": "Portfolio List | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 44839,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/web-design-banner-landing-page-623SRX"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-12.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/portfolio-blog-nikicivi-new-12-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 58558,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cucco-fashion-landing-page-template-JTMV5HP"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-13.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/portfolio-blog-nikicivi-new-13-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 52751,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/robot-pet-landing-page-template-QW5UYLJ"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-11.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/portfolio-blog-nikicivi-new-11-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 103995,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/experts-demo-landing-psd-template-U3THRSV"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-14.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/portfolio-blog-nikicivi-new-14-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 45757,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/responsive-web-design-BV3KY55"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-15.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/portfolio-blog-nikicivi-new-15-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 85855,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/planet-coffee-web-header-template-S3VW8U"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-new-16.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/portfolio-blog-nikicivi-new-16-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid-nikicivi-kit.json",
+                    "name": "Portfolio Grid - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section-nikicivi-kit.json",
+                    "name": "Portfolio Grid | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 146463,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/glammy-ecommerce-psd-templates-LUYG6C"
+        },
+        {
+            "filename": "portfolio-blog-nikicivi-6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/portfolio-blog-nikicivi-6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-list-nikicivi-kit.json",
+                    "name": "Portfolio List - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/portfolio-list-section-nikicivi-kit.json",
+                    "name": "Portfolio List | Section- Nikicivi Kit"
+                }
+            ],
+            "filesize": 56005,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teamwork-on-the-project-landing-page-gr-85PU7M7"
+        },
+        {
+            "filename": "contact-nikicivi-photo.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/contact-nikicivi-photo.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-nikicivi-kit.json",
+                    "name": "Contact - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/contact-section-nikicivi-kit.json",
+                    "name": "Contact | Section - Nikicivi Kit"
+                }
+            ],
+            "filesize": 69470,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-and-lifestyle-concept-portrait-of-beautiful-32C9UP7"
+        },
+        {
+            "filename": "hello-im-niki-photo-nikicivi.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/hello-im-niki-photo-nikicivi.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-section-nikicivi-kit-4.json",
+                    "name": "About | Section - Nikicivi Kit - 4"
+                }
+            ],
+            "filesize": 75405,
+            "dimensions": [
+                496,
+                537
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-and-lifestyle-concept-attractive-charming-y-XLX6VY8"
+        },
+        {
+            "filename": "frame-about-nikicivi-3.png",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/frame-about-nikicivi-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-nikicivi-kit.json",
+                    "name": "About - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/single-post-nikicivi-kit.json",
+                    "name": "Single Post - Nikicivi Kit"
+                },
+                {
+                    "source": "templates\/about-section-nikicivi-kit-4.json",
+                    "name": "About | Section - Nikicivi Kit - 4"
+                }
+            ],
+            "filesize": 1250,
+            "dimensions": [
+                564,
+                588
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "single-post-nikicivi-photo-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/single-post-nikicivi-photo-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post-nikicivi-kit.json",
+                    "name": "Single Post - Nikicivi Kit"
+                }
+            ],
+            "filesize": 74150,
+            "dimensions": [
+                800,
+                411
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/walking-alone-in-the-highlands-TR6QACG"
+        },
+        {
+            "filename": "single-post-nikicivi-photo-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/single-post-nikicivi-photo-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post-nikicivi-kit.json",
+                    "name": "Single Post - Nikicivi Kit"
+                }
+            ],
+            "filesize": 62636,
+            "dimensions": [
+                496,
+                537
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-walking-on-a-road-in-glen-etive-scotland-8GUWCC3"
+        },
+        {
+            "filename": "single-post-nikicivi-photo-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/single-post-nikicivi-photo-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post-nikicivi-kit.json",
+                    "name": "Single Post - Nikicivi Kit"
+                }
+            ],
+            "filesize": 56304,
+            "dimensions": [
+                496,
+                537
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-at-glen-etive-WPJV7E6"
+        },
+        {
+            "filename": "single-post-nikicivi-photo-4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.hellokuro.com\/nikicivi\/wp-content\/uploads\/2021\/04\/single-post-nikicivi-photo-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post-nikicivi-kit.json",
+                    "name": "Single Post - Nikicivi Kit"
+                }
+            ],
+            "filesize": 57026,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/exploring-glen-etive-in-scotland-W8XSJD7"
+        }
+    ]
+}
